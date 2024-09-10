@@ -157,7 +157,209 @@
                 </tr>
             </tbody>
         </table>
+<h3>Collapsed Table Border</h3>
+        <table class="border-collapsed">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
 
+        <!-- Style Table Border -->
+        <h3>Styled Table Border</h3>
+        <table class="border-style">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Round Table Border -->
+        <h3>Round Table Border</h3>
+        <table class="border-round">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Dotted Table Border -->
+        <h3>Dotted Table Border</h3>
+        <table class="border-dotted">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Dashed Table Border -->
+        <h3>Dashed Table Border</h3>
+        <table class="border-dashed">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Solid Table Border -->
+        <h3>Solid Table Border</h3>
+        <table class="border-solid">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Double Table Border -->
+        <h3>Double Table Border</h3>
+        <table class="border-double">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Groove Table Border -->
+        <h3>Groove Table Border</h3>
+        <table class="border-groove">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Ridge Table Border -->
+        <h3>Ridge Table Border</h3>
+        <table class="border-ridge">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Inset Table Border -->
+        <h3>Inset Table Border</h3>
+        <table class="border-inset">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- None Table Border -->
+        <h3>None Table Border</h3>
+        <table class="border-none">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Hidden Table Border -->
+        <h3>Hidden Table Border</h3>
+        <table class="border-hidden">
+            <thead>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
         <!-- Unordered List -->
         <h2>Our Services</h2>
         <ul>
